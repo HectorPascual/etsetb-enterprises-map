@@ -6,7 +6,7 @@ that may interest them depending on its location.
 
 ## DEMO :
 
-Open the [map](map/map.html) in a browser
+Open the [map](map/map.html) in a browser (download the file and open it)
 
 ## Developing
 

@@ -4,6 +4,10 @@ This repository contains a python script that generates a map using Google Maps 
 each enterprise which the ETSETB has an agreement, so it is easier for students to filter for enterprises
 that may interest them depending on its location.
 
+## DEMO :
+
+<iframe width="560" height="315" src="maps/maps.html" ></iframe>
+
 ## Developing
 
 First install pipenv :
@@ -26,5 +30,5 @@ You must have defined the following environment vars in order to run the script 
 
 ~~~
 $ pipenv shell
-$ python main.py
+$ python src/main.py
 ~~~

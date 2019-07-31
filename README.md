@@ -6,7 +6,7 @@ that may interest them depending on its location.
 
 ## DEMO :
 
-<iframe width="560" height="315" src="maps/maps.html" ></iframe>
+Open the [map](map/map.html) in a browser
 
 ## Developing
 

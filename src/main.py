@@ -50,7 +50,7 @@ def parse_name_to_marker(enterprises):
                             addr_tmp['results'][0]['geometry']['location']['lng'],
                             title=("<b><u>" + enterp + "</u></b>"), label="<br/> No website found")
     print("Ended parsing and querying")
-    gmap.draw('../map/map.html')
+    gmap.draw(os.path.dirname(os.path.dirname(__file__))+'map/map.html')
 
 
 if __name__ == "__main__":

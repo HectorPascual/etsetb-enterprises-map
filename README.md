@@ -8,6 +8,8 @@ that may interest them depending on its location.
 
 Open the [map](map/map.html) in a browser (download the file and open it)
 
+![Download map](image.png)
+
 ## Developing
 
 First install pipenv :
